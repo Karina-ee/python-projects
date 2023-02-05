@@ -17,8 +17,3 @@ a = 16 - 8
 print(a)
 x = a**2
 print(x)
-
-
-b= 11
-b=66-z
-print (z)
